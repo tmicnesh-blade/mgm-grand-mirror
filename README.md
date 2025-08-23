@@ -53,4 +53,6 @@ This guide is provided for informational and educational purposes only. The cont
 
 
 
-Update:  19 August 2025 Fixed broken url, now active
+
+
+Update:  23.08.2025 Link is now clickable
